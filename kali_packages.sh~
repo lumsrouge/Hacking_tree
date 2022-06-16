@@ -1,0 +1,19 @@
+    3  sudo apt install kali-desktop-gnome
+   10  sudo apt install terminator
+   11  sudo apt install arpspoof
+   12  sudo apt install dsniff
+   13  sudo apt install mdk3 mdk4
+   14  sudo apt install pip
+   15  sudo apt install pip3
+   16  sudo apt install python3-pip
+   17  sudo apt install beef-xss
+   18  sudo apt install zaproxy
+   20  sudo apt install bettercap
+   21  sudo apt install bettercap-ui
+   22  sudo apt install isr-evilgrade
+   23  apt install ghidra
+   24  sudo apt install ghidra
+   30  sudo apt install ssh-tools
+   32  sudo apt install openssh-client
+   43  sudo apt install bettercap-ui
+   sudo apt install emacs
